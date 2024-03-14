@@ -1,5 +1,5 @@
 ## Olá, Tudo Bom? Eu sou o Joe Chriszel.
-sou estudante de Analise e Desenvolvimento de Sistemas e estou me especialisando em front-end
+Sou estudante de Analise e Desenvolvimento de Sistemas e estou me especialisando em front-end
 
 Seja bem-vindo ao meu repositorio GitHub! fique avontade para da uma olhadinha. 😉
 <div style="display: inline_block"><br>
