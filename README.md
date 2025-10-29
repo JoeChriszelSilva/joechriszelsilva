@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1cWc3cGtqejEzOW9oZ3M0a3d4cTgxZ3Nxb2VkNzN6N2w0d2FjZCZlcD12aXN1YWxzJmN0PWc/M8qDq1w8C8g0q2wP6x/giphy.gif" width="50" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJseHUxbnA5OTc1MzY0dzFwZWlvaWk5a2tsanhpMGdmeDU1N3hydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mulMURlYNywPaMCJ4K/giphy.gif" width="50" />
   <h1>Olá! Eu sou Joe Chriszel Silva</h1>
   <h3>Desenvolvedor Full-Stack Júnior 🚀</h3>
 </div>
@@ -16,5 +16,4 @@
 
 Minha formação e experiência anterior em **Suporte Técnico e Atendimento ao Cliente** me deram uma base única em **resolução rápida de problemas, comunicação eficaz** e **foco no usuário**, competências essenciais que agora aplico no desenvolvimento de software.
 
-Busco uma vaga de **Estágio em Desenvolvimento** para traduzir essa experiência de *front-line* em código funcional, contribuindo ativamente no ciclo de vida do software e aprimorando minhas habilidades em um ambiente de equipe.
-
+Busco uma vaga de **Estágio em Desenvolvimento** para traduzir essa experiência de _front-line_ em código funcional, contribuindo ativamente no ciclo de vida do software e aprimorando minhas habilidades em um ambiente de equipe.
